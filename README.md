@@ -3,4 +3,4 @@ Projet IAE Metz
 
 DATA SOURCES :
 
-FMI INSEE, STATECT, BLOOMBERG, YFinance 
+Factset, YFinance 
